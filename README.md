@@ -1,2 +1,2 @@
 ### animated_clock
-analog clock
+analog clock in js
